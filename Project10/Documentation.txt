@@ -1,0 +1,1 @@
+Stack based calculator that can make multiple equation at a time while nowing wich one to do first 

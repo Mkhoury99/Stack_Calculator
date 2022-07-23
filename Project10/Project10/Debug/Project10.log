@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Khoury\source\repos\Project10\Project10\Source.cpp(19,16): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Khoury\source\repos\Project10\Project10\Source.cpp(65,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Khoury\source\repos\Project10\Project10\Source.cpp(69,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Project10.vcxproj -> C:\Users\Khoury\source\repos\Project10\Debug\Project10.exe
